@@ -50,14 +50,21 @@
   <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/ubuntu.svg" width="30" height="30">
   </span>
+  <span style="display: inline-block;">
+    <img src="https://cdn.svgporn.com/logos/visual-studio.svg" width="30" height="30">
+  </span>
 </div>
 <br>
 <br>
 
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rodrigo-brentano-26a7ba204/](https://www.linkedin.com/in/samuel-m%C3%BCller-81479b1b5/))
-[![Enviar E-mail para Samuel Muller](https://img.shields.io/badge/Hotmail/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:samuel-bohn@hotmail.com)
+<h3>
+  Contato
+</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-m%C3%BCller-81479b1b5/)
+[![E-mail](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:samuel-bohn@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/+55_51_9962120-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551996392120)
 
 
