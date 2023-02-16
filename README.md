@@ -57,7 +57,8 @@
 <br>
 <br>
 
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller&layout=compact&exclude_repo=projeto-agenda-javascript-ejs&hide=java,ruby,makefile,starlark,objective-c,c%2B%2B,objective-c%2B%2B,blade,shell,cmake,c,swift,kotlin&langs_count=10&theme=buefy"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller&layout=compact)](https://github.com/samuelbohnmuller)
+ 
 
 <h3>
   Contato
