@@ -1,5 +1,5 @@
 <i>Olá, sou o Samuel e estudo Análise e Desenvolvimento de Sistemas.</i><br>
-<i>Tenho me dedicado a desenvolver aplicações web na parte de Back-end com Java e Framework Spring, conectando a banco de dados MySQL ou SQLServer. Front-end com TypeScript usando Framework Angular.</i>
+<i>Tenho me dedicado a desenvolver aplicações web na parte de Back-end com Java e Framework Spring, conectando a banco de dados MySQL ou SQLServer. Front-end com TypeScript/JavaScript usando Framework React e Angular.</i>
 <br>
 
 <br>
