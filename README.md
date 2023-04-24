@@ -57,7 +57,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller&layout=compact)](https://github.com/samuelbohnmuller)
+
  
 
 <h3>
