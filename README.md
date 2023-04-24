@@ -53,6 +53,9 @@
   <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/visual-studio.svg" width="30" height="30">
   </span>
+  <span style="display: inline-block;">
+    <img src="https://cdn.svgporn.com/logos/react.svg" alt="HTML" width="30" height="30"/>
+  </span>
 </div>
 <br>
 <br>
