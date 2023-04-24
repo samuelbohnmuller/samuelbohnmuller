@@ -57,7 +57,7 @@
 <br>
 <br>
 
-https://img.shields.io/github/languages/top/samuelbohnmuller/.?style=plastic
+![Top Language](https://img.shields.io/github/languages/top/samuelbohnmuller/dot?style=plastic)
  
 <h3>
   Contato
