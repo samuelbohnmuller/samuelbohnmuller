@@ -15,6 +15,9 @@
     <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="30" height="30"/>
   </span>
   <span style="display: inline-block;">
+    <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="30" height="30"/>
+  </span>
+  <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="30" height="30"/>
   </span>
   <span style="display: inline-block;">
@@ -24,14 +27,15 @@
     <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="30" height="30"/>
   </span>
   <span style="display: inline-block;">
+    <img src="https://cdn.svgporn.com/logos/react.svg" alt="HTML" width="30" height="30"/>
+  </span>
+  <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="Angular" width="30" height="30"/>
   </span>
   <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="Spring" width="30" height="30"/>
   </span>
-  <span style="display: inline-block;">
-    <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="30" height="30"/>
-  </span>
+  
   <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/selenium.svg" width="30" height="30">
   </span>
@@ -53,9 +57,7 @@
   <span style="display: inline-block;">
     <img src="https://cdn.svgporn.com/logos/visual-studio.svg" width="30" height="30">
   </span>
-  <span style="display: inline-block;">
-    <img src="https://cdn.svgporn.com/logos/react.svg" alt="HTML" width="30" height="30"/>
-  </span>
+  
 </div>
 <br>
 <br>
