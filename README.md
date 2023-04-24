@@ -57,7 +57,8 @@
 <br>
 <br>
 
-![Top Language]([https://img.shields.io/github/languages/top/samuelbohnmuller/dot?style=plastic](https://img.shields.io/github/languages/top/samuelbohnmuller/.?style=plastic))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller)](https://github.com/samuelbohnmuller/github-readme-stats)
+
  
 <h3>
   Contato
