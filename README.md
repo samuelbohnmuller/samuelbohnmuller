@@ -57,7 +57,11 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller)](https://github.com/samuelbohnmuller/github-readme-stats)
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller">
+</p>  
+
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbohnmuller)](https://github.com/samuelbohnmuller/github-readme-stats)
 
  
 <h3>
