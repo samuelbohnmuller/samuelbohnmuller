@@ -1,7 +1,6 @@
-<i>Olá, sou o Samuel e estudo Análise e Desenvolvimento de Sistemas.</i><br>
-<i>Tenho me dedicado a desenvolver aplicações web na parte de Back-end com Java e Framework Spring, conectando a banco de dados MySQL ou SQLServer. Front-end com TypeScript/JavaScript usando Framework/Biblioteca React e Angular.</i>
+<i>Sou um profissional de QA com 2 anos de experiência, especializado em testes manuais e automatizados. Tenho sólidos conhecimentos em Java, SQL e ferramentas de automação, como Selenium WebDriver, JUnit e RestAssured.</i><br>
+<i>Durante minha carreira, trabalhei em projetos de teste, desenvolvendo e executando casos de teste, identificando e relatando problemas, e colaborando estreitamente com equipes de desenvolvimento para garantir a qualidade do software.</i>
 <br>
-
 <br>
 <i>A repetição e a insistência levam a perfeição.</i>
 
