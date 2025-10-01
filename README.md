@@ -1,4 +1,4 @@
-<i>Sou um profissional de QA com 2 anos de experiência, especializado em testes manuais e automatizados. Tenho sólidos conhecimentos em Java, SQL e ferramentas de automação, como Selenium WebDriver, JUnit e RestAssured.</i><br>
+<i>Sou um profissional de QA com 4 anos de experiência, especializado em testes manuais e automatizados. Tenho sólidos conhecimentos em Java, SQL e ferramentas de automação, como Selenium WebDriver, JUnit e RestAssured.</i><br>
 <i>Durante minha carreira, trabalhei em projetos de teste, desenvolvendo e executando casos de teste, identificando e relatando problemas, e colaborando estreitamente com equipes de desenvolvimento para garantir a qualidade do software.</i>
 <br>
 <br>
