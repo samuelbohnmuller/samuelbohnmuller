@@ -1,8 +1,7 @@
-<i>Sou um profissional de QA com 4 anos de experiência, especializado em testes manuais e automatizados. Tenho sólidos conhecimentos em Java, SQL e ferramentas de automação, como Selenium WebDriver, JUnit e RestAssured.</i><br>
-<i>Durante minha carreira, trabalhei em projetos de teste, desenvolvendo e executando casos de teste, identificando e relatando problemas, e colaborando estreitamente com equipes de desenvolvimento para garantir a qualidade do software.</i>
+<i>Sou Analista de Sistemas com experiência de 5 anos em testes manuais e automatizados, abrangendo testes unitários e integração. Atuo no desenvolvimento back-end em C# .NET e front-end em React Native. Tenho vivência em ferramentas como Playwright para automação web, Appium (Java/C#) para automação mobile, xUnit e JUnit para testes unitários,  </i>
 <br>
 <br>
-<i>A repetição e a insistência levam a perfeição.</i>
+
 
 <h3 align="center">
   Skills
